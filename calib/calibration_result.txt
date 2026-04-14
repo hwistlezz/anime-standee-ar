@@ -1,0 +1,19 @@
+=== Camera Calibration Results ===
+Input video: data\chessboard.avi
+Board pattern (inner corners): (8, 6)
+Board cell size: 0.025 m
+Valid frames: 88
+RMS Error (RMSE): 0.831279
+
+Camera Matrix (K):
+[[549.467417   0.       336.847376]
+ [  0.       552.68504  227.611013]
+ [  0.         0.         1.      ]]
+
+Distortion Coefficients:
+[ 0.238669 -1.039589 -0.007231  0.002612  1.548612]
+
+fx: 549.467417
+fy: 552.685040
+cx: 336.847376
+cy: 227.611013
